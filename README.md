@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 git traning
 
 please fork this repository and then issue pull
+
+all right reserved
